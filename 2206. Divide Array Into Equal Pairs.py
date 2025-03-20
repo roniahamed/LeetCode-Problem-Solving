@@ -8,7 +8,7 @@ class Solution:
         return True
 
 
-/* 
+"""
 Problem link: https://leetcode.com/problems/divide-array-into-equal-pairs/
 solution link: https://leetcode.com/problems/divide-array-into-equal-pairs/solutions/6545880/best-solution-this-question 
-*/ 
+"""
